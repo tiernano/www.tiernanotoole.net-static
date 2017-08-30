@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tiernan OToole Network</title>
+    <description>The Homepage for Tiernan OToole's Network.
+</description>
+    <link>https://www.tiernanotoole.net/</link>
+    <atom:link href="https://www.tiernanotoole.net/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 30 Aug 2017 10:59:59 +0100</pubDate>
+    <lastBuildDate>Wed, 30 Aug 2017 10:59:59 +0100</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>new site, TiernanOToole.net</title>
+        <description>&lt;p&gt;So, yup. Another blog… This one will be for the network. Not really a blog, more statuses… bare with me…&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Jul 2016 12:22:57 +0100</pubDate>
+        <link>https://www.tiernanotoole.net/2016/07/08/tiernantoolenet.html</link>
+        <guid isPermaLink="true">https://www.tiernanotoole.net/2016/07/08/tiernantoolenet.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
